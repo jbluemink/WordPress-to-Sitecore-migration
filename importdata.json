@@ -1,0 +1,72 @@
+[
+  {
+    "id": 90001,
+    "title": "Using REST API Sitecore XM Cloud",
+    "intro": "Sitecore has RESTful API with can be used to import a worpress website",
+    "content": {
+      "expanded_nostructure": "<p>Using the EntityService from c# is easy and works on XM Cloud same as for Sitecore XP</p>\n"
+    },
+    "image": "https://stockpick.nl/media/1341/img_8604.jpg",
+    "date": -55792419000,
+    "url": {
+      "full": "https://www.stockpick.nl/news/using-sitecore-rest-api/",
+      "relative": "/news/using-sitecore-rest-api/"
+    },
+    "author": {
+      "id": 101,
+      "name": "Jan Bluemink",
+      "image": ""
+    },
+    "tags": [
+      {
+        "id": 20001,
+        "name": "Sitecore",
+        "description": ""
+      },
+      {
+        "id": 20003,
+        "name": "API",
+        "description": ""
+      }
+    ],
+    "seo": {
+      "focus_keyword": "API, Content migration",
+      "description": "Using API for migration Wordpress conbtent to XM Cloud"
+    }
+  },
+  {
+    "id": 90002,
+    "title": "Import Data into Sitecore XM Cloud",
+    "intro": "Importing data is easy bu what about the structure and references",
+    "content": {
+      "expanded_nostructure": "<p>C# is great for creating the logic about structure and managing the references</p>\n"
+    },
+    "image": "https://stockpick.nl/media/1356/sitecore-iar-gutter2.jpg",
+    "date": -55792505000,
+    "url": {
+      "full": "https://www.stockpick.nl/news/import-data-xm-cloud/",
+      "relative": "/news/import-data-xm-cloud/"
+    },
+    "author": {
+      "id": 101,
+      "name": "Jan Bluemink",
+      "image": ""
+    },
+    "tags": [
+      {
+        "id": 20001,
+        "name": "Sitecore",
+        "description": ""
+      },
+      {
+        "id": 20002,
+        "name": "Import",
+        "description": ""
+      }
+    ],
+    "seo": {
+      "focus_keyword": "Import, Content migration",
+      "description": "Using API for migration Wordpress content to Sitecore XM Cloud part 2"
+    }
+  }
+]
