@@ -5,4 +5,5 @@ The code works also for Sitecore XP but you need to adjust the template GUID and
 
 See: [Migrating Your Content Seamlessly: A Comprehensive Tech Guide from WordPress to Sitecore XM Cloud](https://uxbee.eu/insights/migrating-your-content-seamlessly-tech-guide)
 
-Although the Restful API is legacy and the Sitecore GraphQL API is preferred, its simplicity makes it suitable for one time tasks.
+Although the Restful API is legacy and the Sitecore GraphQL API is preferred, its simplicity makes it suitable for one time tasks.</br>
+See [Sitecore-GraphQL-Import](https://github.com/jbluemink/Sitecore-GraphQL-Import) for the GraphQL API
