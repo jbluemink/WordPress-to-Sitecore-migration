@@ -7,3 +7,5 @@ See: [Migrating Your Content Seamlessly: A Comprehensive Tech Guide from WordPre
 
 Although the Restful API is legacy and the Sitecore GraphQL API is preferred, its simplicity makes it suitable for one time tasks.</br>
 See [Sitecore-GraphQL-Import](https://github.com/jbluemink/Sitecore-GraphQL-Import) for the GraphQL API
+
+For a WordPress to XM Cloud converter that works with the OOTB Wordpress XML format and support for Gutenberg bloks and Yoast SEO see [SitecoreCommander](https://github.com/jbluemink/SitecoreCommander)
